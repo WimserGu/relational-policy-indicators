@@ -1,0 +1,18 @@
+openalex_work_type,retrieved_n,core_payload_validated_n,treatment
+article,30202,27693,Included; no work-type exclusion was applied.
+book,117,109,Included; no work-type exclusion was applied.
+book-chapter,4760,4392,Included; no work-type exclusion was applied.
+conference-paper,100,94,Included; no work-type exclusion was applied.
+dataset,387,328,Included; no work-type exclusion was applied.
+dissertation,108,98,Included; no work-type exclusion was applied.
+editorial,22,21,Included; no work-type exclusion was applied.
+erratum,72,58,Included; no work-type exclusion was applied.
+letter,13,10,Included; no work-type exclusion was applied.
+other,44,42,Included; no work-type exclusion was applied.
+paratext,19,15,Included; no work-type exclusion was applied.
+peer-review,108,107,Included; no work-type exclusion was applied.
+preprint,2558,2321,Included; no work-type exclusion was applied.
+reference-entry,2,2,Included; no work-type exclusion was applied.
+report,81,79,Included; no work-type exclusion was applied.
+retraction,2,2,Included; no work-type exclusion was applied.
+review,594,545,Included; no work-type exclusion was applied.

@@ -1,0 +1,107 @@
+source_retrieval_date,membership_reference_date,rec,iso2,iso3,country,source_url
+2026-07-15,2025-12-31,AMU,DZ,DZA,Algeria,https://maghrebarabe.org/en/member-countries/
+2026-07-15,2025-12-31,AMU,LY,LBY,Libya,https://maghrebarabe.org/en/member-countries/
+2026-07-15,2025-12-31,AMU,MR,MRT,Mauritania,https://maghrebarabe.org/en/member-countries/
+2026-07-15,2025-12-31,AMU,MA,MAR,Morocco,https://maghrebarabe.org/en/member-countries/
+2026-07-15,2025-12-31,AMU,TN,TUN,Tunisia,https://maghrebarabe.org/en/member-countries/
+2026-07-15,2025-12-31,CEN-SAD,BJ,BEN,Benin,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,BF,BFA,Burkina Faso,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,CF,CAF,Central African Republic,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,TD,TCD,Chad,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,KM,COM,Comoros,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,CI,CIV,Cote d'Ivoire,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,DJ,DJI,Djibouti,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,EG,EGY,Egypt,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,ER,ERI,Eritrea,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,GM,GMB,Gambia,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,GH,GHA,Ghana,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,GN,GIN,Guinea,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,GW,GNB,Guinea-Bissau,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,LY,LBY,Libya,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,ML,MLI,Mali,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,MR,MRT,Mauritania,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,MA,MAR,Morocco,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,NE,NER,Niger,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,NG,NGA,Nigeria,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,SN,SEN,Senegal,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,SL,SLE,Sierra Leone,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,SO,SOM,Somalia,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,SD,SDN,Sudan,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,TG,TGO,Togo,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,CEN-SAD,TN,TUN,Tunisia,https://censad.int/en/who-are-we/member-states/
+2026-07-15,2025-12-31,COMESA,BI,BDI,Burundi,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,KM,COM,Comoros,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,CD,COD,Democratic Republic of the Congo,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,DJ,DJI,Djibouti,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,EG,EGY,Egypt,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,ER,ERI,Eritrea,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,SZ,SWZ,Eswatini,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,ET,ETH,Ethiopia,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,KE,KEN,Kenya,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,LY,LBY,Libya,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,MG,MDG,Madagascar,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,MW,MWI,Malawi,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,MU,MUS,Mauritius,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,RW,RWA,Rwanda,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,SC,SYC,Seychelles,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,SO,SOM,Somalia,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,SD,SDN,Sudan,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,TN,TUN,Tunisia,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,UG,UGA,Uganda,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,ZM,ZMB,Zambia,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,COMESA,ZW,ZWE,Zimbabwe,https://www.comesa.int/members-2/
+2026-07-15,2025-12-31,EAC,BI,BDI,Burundi,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,CD,COD,Democratic Republic of the Congo,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,KE,KEN,Kenya,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,RW,RWA,Rwanda,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,SO,SOM,Somalia,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,SS,SSD,South Sudan,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,TZ,TZA,Tanzania,https://www.eac.int/
+2026-07-15,2025-12-31,EAC,UG,UGA,Uganda,https://www.eac.int/
+2026-07-15,2025-12-31,ECCAS,AO,AGO,Angola,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,BI,BDI,Burundi,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,CM,CMR,Cameroon,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,CF,CAF,Central African Republic,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,TD,TCD,Chad,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,CG,COG,Republic of the Congo,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,CD,COD,Democratic Republic of the Congo,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,GQ,GNQ,Equatorial Guinea,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,GA,GAB,Gabon,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,RW,RWA,Rwanda,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECCAS,ST,STP,Sao Tome and Principe,https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/
+2026-07-15,2025-12-31,ECOWAS,BJ,BEN,Benin,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,CV,CPV,Cabo Verde,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,CI,CIV,Cote d'Ivoire,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,GM,GMB,Gambia,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,GH,GHA,Ghana,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,GN,GIN,Guinea,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,GW,GNB,Guinea-Bissau,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,LR,LBR,Liberia,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,NG,NGA,Nigeria,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,SN,SEN,Senegal,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,SL,SLE,Sierra Leone,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,ECOWAS,TG,TGO,Togo,https://www.ecowas.int/?page_id=40
+2026-07-15,2025-12-31,IGAD,DJ,DJI,Djibouti,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,ER,ERI,Eritrea,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,ET,ETH,Ethiopia,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,KE,KEN,Kenya,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,SO,SOM,Somalia,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,SS,SSD,South Sudan,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,SD,SDN,Sudan,https://igad.int/home/
+2026-07-15,2025-12-31,IGAD,UG,UGA,Uganda,https://igad.int/home/
+2026-07-15,2025-12-31,SADC,AO,AGO,Angola,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,BW,BWA,Botswana,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,KM,COM,Comoros,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,CD,COD,Democratic Republic of the Congo,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,SZ,SWZ,Eswatini,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,LS,LSO,Lesotho,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,MG,MDG,Madagascar,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,MW,MWI,Malawi,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,MU,MUS,Mauritius,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,MZ,MOZ,Mozambique,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,NA,NAM,Namibia,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,SC,SYC,Seychelles,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,ZA,ZAF,South Africa,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,TZ,TZA,Tanzania,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,ZM,ZMB,Zambia,https://www.sadc.int/member-states
+2026-07-15,2025-12-31,SADC,ZW,ZWE,Zimbabwe,https://www.sadc.int/member-states

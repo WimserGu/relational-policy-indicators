@@ -1,0 +1,28 @@
+{
+  "snapshot_date": "2026-07-15",
+  "definition": "Membership in the eight African Union-recognised Regional Economic Communities as reported by current official REC pages.",
+  "sources": {
+    "AU recognition": "https://www.au.int/en/recs",
+    "AMU": "https://maghrebarabe.org/en/member-countries/",
+    "CEN-SAD": "https://censad.int/en/who-are-we/member-states/",
+    "COMESA": "https://www.comesa.int/members-2/",
+    "EAC": "https://www.eac.int/",
+    "ECCAS": "https://www.ceeac-eccas.org/2023/05/28/la-ceeac-en-bref/",
+    "ECOWAS": "https://www.ecowas.int/?page_id=40",
+    "IGAD": "https://igad.int/home/",
+    "SADC": "https://www.sadc.int/member-states"
+  },
+  "member_counts": {
+    "AMU": 5,
+    "CEN-SAD": 25,
+    "COMESA": 21,
+    "EAC": 8,
+    "ECCAS": 11,
+    "ECOWAS": 12,
+    "IGAD": 8,
+    "SADC": 16
+  },
+  "primary_reference_date": "2025-12-31",
+  "sensitivity_reference_date": "2021-01-01",
+  "dynamic_note": "End-2025 ECOWAS has 12 members after Burkina Faso, Mali and Niger withdrew on 29 January 2025; EAC has 8 after DRC and Somalia joined. The start-2021 sensitivity restores the three ECOWAS members and uses the six-state EAC."
+}

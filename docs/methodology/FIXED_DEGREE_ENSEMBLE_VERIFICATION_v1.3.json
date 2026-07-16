@@ -1,0 +1,16 @@
+{
+  "nodes": 39,
+  "observed_edges": 513,
+  "canonical_representation": "741-bit integer over lexicographically ordered unordered node pairs",
+  "duplicate_removal": "Python integer set keyed by the canonical adjacency bitset",
+  "enumeration_algorithm": "Breadth-first traversal from the observed graph over every valid labelled simple-graph 2-switch",
+  "enumerated_states": 63,
+  "state_graph_undirected_edges": 513,
+  "state_graph_components_within_enumeration": 1,
+  "state_graph_min_degree": 15,
+  "state_graph_max_degree": 38,
+  "all_states_preserve_observed_degree_sequence": true,
+  "canonical_state_set_sha256": "8CEB260236472C8C96AE54883547A6B6F6F0E3A3FF754F20A064884EF61E4ADD",
+  "completeness_basis": "Any two labelled simple graphs with the same degree sequence are connected by a finite sequence of 2-switches: their symmetric difference decomposes into alternating even circuits, each removable by successive 2-switches. Therefore the exhaustive BFS component from the observed realization is the full realization set; no additional components exist.",
+  "ensemble_conclusion": "All 63 labelled simple graphs satisfying the observed degree sequence; one connected switch-state graph; exact equal weighting is a complete fixed-degree enumeration."
+}

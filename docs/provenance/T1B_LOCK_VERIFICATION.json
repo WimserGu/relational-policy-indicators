@@ -1,0 +1,18 @@
+{
+  "checks": {
+    "manifest_json_valid": true,
+    "status_locked_before_holdout_access": true,
+    "protocol_size_matches": true,
+    "protocol_hash_matches": true,
+    "all_frozen_input_hashes_match": true,
+    "eight_frozen_inputs": true,
+    "holdout_file_absent": true,
+    "manifest_records_no_prelock_url_check": true,
+    "primary_risk_set_locked": true,
+    "primary_outcome_locked": true,
+    "permutations_locked_10000": true,
+    "decision_rules_locked": true
+  },
+  "holdout_matches": [],
+  "pass": true
+}

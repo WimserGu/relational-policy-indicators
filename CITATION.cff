@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and this software repository. Final bibliographic metadata are not yet confirmed."
+type: software
+title: "Relational Policy Indicators replication repository"
+authors:
+  - name: "AUTHOR METADATA TO BE CONFIRMED"
+repository-code: "https://github.com/WimserGu/relational-policy-indicators"
+abstract: "Code, processed analytical data, frozen outputs, and provenance records for a cross-layer comparison of shared-ASN participation and AI collaboration in African country networks."
+keywords:
+  - relational policy indicators
+  - network measurement
+  - OpenAlex
+  - PeeringDB
+  - reproducibility
+license: MIT

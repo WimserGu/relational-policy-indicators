@@ -1,0 +1,9 @@
+﻿stage,restriction,dyads_remaining,lost_at_stage,retention_from_previous,entry_dyads,stable_zero_dyads
+1,All 55-country dyads,1485,0,1.0,,
+2,Both countries in frozen core31,465,1020,0.31313131313131315,,
+3,Comparable PeeringDB coverage in 2023 and 2024,435,30,0.9354838709677419,,
+4,2023 shared-ASN count equals zero,60,375,0.13793103448275862,,
+5,Entry or stable-zero transition,60,0,1.0,44,16
+6,No AI tie in 2022 and 2023 (T1-B-compatible),55,5,0.9166666666666666,39,16
+7,Also no AI tie in 2024 (strict risk set),53,2,0.9636363636363636,37,16
+8,Positive AI tie in 2025 within strict risk set,0,53,0.0,0,0

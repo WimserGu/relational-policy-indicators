@@ -1,0 +1,28 @@
+test_id,description,status,detail
+MA-V001,Audited v1.1 source retained unchanged,PASS,1CE15461076375AB412D5906F8BFB8C89013B11EE09D9945EF0C7A027C8A8901
+MA-V002,Archived Phase 3 null result retained unchanged,PASS,902DA434306E0059321A27CF7709E7C2A66BB87F3931626BB526B653F183D241
+MA-V003,All 39 covered countries satisfy the metric identity,PASS,failures=0; max_abs_diff=1.4210854715202004e-14
+MA-V004,Country values exported as integers,PASS,39 covered integer counts
+MA-V005,"Ranks, percentiles, gaps, and figure ordering unchanged",PASS,technical_pct_common39; knowledge_pct_common39; tech_knowledge_signed_gap_common39; tech_knowledge_abs_gap_common39; main_figure_sort_order
+MA-V006,Gate A rho unchanged,PASS,0.3337389718568079
+MA-V007,Gate A median gap unchanged,PASS,15.78947368421052
+MA-V008,Infrastructure null uses 63 equal-weight states,PASS,states=63; weight=0.015873015873015872
+MA-V009,Infrastructure exact tail probability is 2/63,PASS,0.031746031746031744
+MA-V010,Infrastructure exact null mean synchronized,PASS,0.4900522912218818
+MA-V011,Knowledge null uses two proposal-step chains,PASS,chains=2; draws=10000
+MA-V012,Rejected knowledge proposals remain self-loops,PASS,Retained as self-loops and counted as proposal steps.
+MA-V013,Knowledge chains preserve degree sequence,PASS,"[True, True]"
+MA-V014,Knowledge chain convergence diagnostic acceptable,PASS,Rhat=1.0001502931571677
+MA-V015,Knowledge effective sample sizes recorded,PASS,"[5000, 4870.582122169355]"
+MA-V016,Knowledge retained-draw autocorrelation small,PASS,"[{'lag_1': -0.003963335090819702, 'lag_5': -0.0008162083755261879, 'lag_10': 0.014513120718040059, 'lag_20': -0.009420939454951387}, {'lag_1': 0.021023051648288417, 'lag_5': 0.007825654561360649, 'lag_10': -0.004598581758969248, 'lag_20': 0.01940774348036479}]"
+MA-V017,Corrected knowledge null values reproduced,PASS,mean=0.43206576576576583; ratio=1.2510607952993476; p=9.999000099990002e-05
+MA-V018,Table 3 knowledge values match corrected output,PASS,1.2510607952993476
+MA-V019,Table 3 infrastructure values match corrected output,PASS,0.031746031746031744
+MA-V020,Corrected Figure 2 artifacts exist,PASS,PNG and PDF
+MA-V021,Manuscript contains all corrected constructs and values,PASS,missing=[]
+MA-V022,Obsolete or inaccurate manuscript phrases removed,PASS,hits=[]
+MA-V023,Monte Carlo results are not labelled exact,PASS,Only the 63-state enumeration is labelled exact
+MA-V024,2026 snapshot timing boundary explicit,PASS,timing boundary present
+MA-V025,Locked unaffected headline values retained,PASS,missing=[]
+MA-V026,Reference section unchanged,PASS,v11_refs_sha=9dd18a6a7328c6b9598b8e33b7531aba163589cc51d15f3fe481527423eb4b74; v12_refs_sha=9dd18a6a7328c6b9598b8e33b7531aba163589cc51d15f3fe481527423eb4b74
+MA-V027,Table S4 distinguishes compatible presence from strict formation,PASS,compatible={'next-year tie presence after two tie-free pre-event years'}; strict={'strict new formation; also requires no tie in event year t'}

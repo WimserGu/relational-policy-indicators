@@ -1,0 +1,91 @@
+{
+  "audit_type": "descriptive_only_no_new_model",
+  "protocol_sha256": "8066aae3207f1041c80db83409436ce12d25b8a359e5331f469ce5b9df5789c2",
+  "frozen_core_country_count": 31,
+  "event_cohorts": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023,
+    2024
+  ],
+  "mature_two_year_cohorts": [
+    2019,
+    2020,
+    2021,
+    2022,
+    2023
+  ],
+  "risk_set_2024": {
+    "t1b_compatible_n": 55,
+    "strict_n": 53,
+    "t1b_compatible_2025_positive_n": 1,
+    "strict_2025_positive_n": 0
+  },
+  "sparsity_diagnostic": {
+    "strict_2024_one_year_rate": 0.0,
+    "historical_2019_2023_strict_one_year_rates": [
+      0.012345679012345678,
+      0.026041666666666668,
+      0.03468208092485549,
+      0.042682926829268296,
+      0.03773584905660377
+    ],
+    "historical_minimum": 0.012345679012345678,
+    "is_2024_unusually_sparse_under_locked_rule": true,
+    "classification": "2025-specific unusually sparse"
+  },
+  "lag_diagnostic": {
+    "cohorts": [
+      {
+        "event_year": 2019,
+        "strict_one_year_rate": 0.012345679012345678,
+        "strict_two_year_rate": 0.024691358024691357,
+        "material_lag_gain": true
+      },
+      {
+        "event_year": 2020,
+        "strict_one_year_rate": 0.026041666666666668,
+        "strict_two_year_rate": 0.057291666666666664,
+        "material_lag_gain": true
+      },
+      {
+        "event_year": 2021,
+        "strict_one_year_rate": 0.03468208092485549,
+        "strict_two_year_rate": 0.06358381502890173,
+        "material_lag_gain": true
+      },
+      {
+        "event_year": 2022,
+        "strict_one_year_rate": 0.042682926829268296,
+        "strict_two_year_rate": 0.07926829268292683,
+        "material_lag_gain": true
+      },
+      {
+        "event_year": 2023,
+        "strict_one_year_rate": 0.03773584905660377,
+        "strict_two_year_rate": 0.08490566037735849,
+        "material_lag_gain": true
+      }
+    ],
+    "material_lag_gain_cohort_count": 5,
+    "wait_gate_pass": true
+  },
+  "deepening_support": {
+    "pooled_2019_2023_strengthening_existing_tie_n": 65,
+    "pooled_2019_2023_strengthening_fractional_deepening_n": 26,
+    "pooled_2019_2023_strengthening_fractional_two_year_deepening_n_sensitivity": 35,
+    "mature_cohorts_with_strengthening_eligible_observations": 5,
+    "pooled_2019_2023_non_strengthening_existing_tie_n": 163,
+    "gates": {
+      "strengthening_existing_tie_observations_ge_30": true,
+      "fractional_deepening_outcomes_ge_30": false,
+      "strengthening_present_in_at_least_4_cohorts": true,
+      "non_strengthening_eligible_observations_ge_50": true
+    },
+    "all_gates_pass": false,
+    "horizon_note": "The locked >=30 outcome gate is operationalized conservatively with one-year fractional deepening. The two-year cumulative count is reported as a sensitivity and does not replace the locked decision."
+  },
+  "locked_direction": "WAIT FOR A LONGER FORMATION HORIZON"
+}

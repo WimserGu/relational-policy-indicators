@@ -1,0 +1,9 @@
+module,diagnostic,value,criterion_or_role
+Gate A,Spearman rho bootstrap percentile interval,-0.050089 to 0.636838,Descriptive uncertainty; no significance/equivalence test
+Gate A,Median absolute gap bootstrap percentile interval,5.263158 to 30.263158,Descriptive uncertainty; no significance/equivalence test
+Infrastructure null,Enumerated labelled states,63,Complete fixed-degree ensemble by 2-switch connectivity
+Infrastructure null,Switch-state components,1,One connected component
+Knowledge null,"R-hat, end-2025 statistic",1.000150,Two-chain convergence diagnostic
+Knowledge null,Chain ESS,5000; 4870.58,Retained-draw effective sample size
+Knowledge null,Acceptance rates,0.157724; 0.157674,Proposal-step chains with rejection self-loops
+Knowledge null,Absolute retained-draw autocorrelation,"<=0.0211 at lags 1, 5, 10, 20",Empirical mixing check

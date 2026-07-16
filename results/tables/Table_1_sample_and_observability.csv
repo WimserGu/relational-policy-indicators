@@ -1,0 +1,17 @@
+﻿panel,item,universe_n,retained_or_observed_n,not_observed_or_excluded_n,dyads,covered_mean,uncovered_mean,standardized_mean_difference,auc,standardized_estimate,permutation_p_plus1,evidence_role,bounded_interpretation
+A. Sample flow,African Union mother frame,55,55,0,,,,,,,,Country universe,Coverage audit frame; not an analytic shared-ASN analytical sample
+A. Sample flow,OpenAlex country count retrieved,55,55,0,,,,,,,,Resource observability,All countries returned a country-specific count
+A. Sample flow,PeeringDB country query completed,55,55,0,,,,,,,,Query completion,Query completion does not imply technical-layer coverage
+A. Sample flow,At least one PeeringDB IXP record,55,42,13,,,,,,,,Raw source coverage,Public database record presence only
+A. Sample flow,C39 technical-network coverage rule,55,39,16,741,,,,,,,Primary technical frame,Infrastructure-observed countries under the frozen rule
+A. Sample flow,Registered primary DSP-MRQAP,39,38,1,703,,,,,0.04166802681828586,0.256974302569743,Primary model,One C39 knowledge isolate is outside the dyadic estimation sample
+B. Observation states,Country technical state: Recorded positive,55,36,,,,,,,,,Country state,Positive technical position within C39
+B. Observation states,Country technical state: Recorded zero,55,3,,,,,,,,,Country state,Constructed zero under the frozen PeeringDB matrix within C39
+B. Observation states,Country technical state: Not observed under source/eligibility rule,55,16,,,,,,,,,Country state,Blank technical value outside C39
+B. Observation states,C39 dyads: Recorded positive,741,513,,513,,,,,,,Dyad state,Positive frozen shared-ASN measure
+B. Observation states,C39 dyads: Recorded zero,741,228,,228,,,,,,,Dyad state,Constructed zero under the frozen PeeringDB matrix in the complete observed matrix
+C. Coverage selection,Fractional AI research output,55,39,16,,4.304328330397463,2.343335564648685,0.9686582163452037,,,,Descriptive SMD,Covered countries have higher transformed values; no selection correction
+C. Coverage selection,Population,55,39,15,,16.651535995151406,15.091215321906903,1.0119089206811516,,,,Descriptive SMD,Covered countries have higher transformed values; no selection correction
+C. Coverage selection,GDP,55,39,13,,24.198026801989638,22.798260090720273,0.9755063245871402,,,,Descriptive SMD,Covered countries have higher transformed values; no selection correction
+C. Coverage selection,Descriptive coverage propensity AUC,55,54,1,,,,,0.8854700854700854,,,Diagnostic only,Measures separation in 54 complete cases; no weighting or imputation
+D. Lower-bound sensitivity,Continental zero lower bound,55,47,8,1081,,,,,0.02827088593731225,0.31796820317968205,Sensitivity only,Zero-coding is confined to this bound and does not recover missing infrastructure

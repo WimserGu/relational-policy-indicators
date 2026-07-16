@@ -1,0 +1,67 @@
+{
+  "lock_timestamp": "2026-07-15T12:13:54+03:00",
+  "timezone": "Africa/Nairobi",
+  "status": "LOCKED_BEFORE_HOLDOUT_ACCESS",
+  "protocol": {
+    "path": "outputs\\africa_ai_phase7_t1b_holdout_preregistration_20260715\\T1B_PREREGISTRATION.md",
+    "bytes": 6612,
+    "sha256": "155bb6d18ed4deac1115e62dace892e22ba28b5c7bb6a02cad3b7b3feada9cac"
+  },
+  "holdout": {
+    "expected_filename": "peeringdb_2_dump_2024_12_31.json",
+    "expected_source_url": "https://data.caida.org/datasets/peeringdb-v2/2024/12/peeringdb_2_dump_2024_12_31.json",
+    "workspace_search_scope": "outputs (recursive filenames)",
+    "matching_files_at_lock": [],
+    "holdout_file_absent_at_lock": true,
+    "target_url_checked_before_lock": false,
+    "holdout_contents_inspected_before_lock": false
+  },
+  "frozen_inputs": [
+    {
+      "path": "outputs\\africa_ai_phase5_t0_temporal_pilot_20260715\\processed\\openalex_annual_dyad_panel.csv",
+      "bytes": 1462422,
+      "sha256": "7164ed0ffcc75384c6eb498ba144d0b60425a27c7d79ef10d92bfd6cd1c2ec03"
+    },
+    {
+      "path": "outputs\\africa_ai_phase5_t0_temporal_pilot_20260715\\processed\\openalex_annual_country_panel.csv",
+      "bytes": 50441,
+      "sha256": "07c385349c979e078b722a562855878473fded3f3ea4711f60c2f3e1ffdab976"
+    },
+    {
+      "path": "outputs\\africa_ai_phase5_t0_temporal_pilot_20260715\\raw\\caida_peeringdb\\peeringdb_2_dump_2023_12_31.json",
+      "bytes": 85175189,
+      "sha256": "d5652c035491906de4de0ba2c458d1db37a9c4cff6b38fa79145d726490e4cc8"
+    },
+    {
+      "path": "outputs\\africa_ai_phase5_t0_temporal_pilot_20260715\\processed\\peeringdb_snapshot_country_coverage.csv",
+      "bytes": 14281,
+      "sha256": "42adb93bd22cc02822aeb3aa34818e2c07ce7e06be34a799ce4e330969be4297"
+    },
+    {
+      "path": "outputs\\africa_ai_phase2b_network_controls_20260715\\processed\\cepii_africa_dyadic_controls.csv",
+      "bytes": 127683,
+      "sha256": "3cda2d8b104d37d978ea2e9d0766e8e5e56ca78925b1463da36c1c162343c5d4"
+    },
+    {
+      "path": "outputs\\africa_ai_phase5_t0_temporal_pilot_20260715\\qa\\t0_historical_peeringdb_audit.json",
+      "bytes": 9697,
+      "sha256": "d1d2e2ab03e4cbb97ed972db25a3ced6c753c60ec061009079e9701326d4afc3"
+    },
+    {
+      "path": "outputs\\africa_ai_phase6_t1_formation_model_20260715\\T1_LOCKED_PROTOCOL.md",
+      "bytes": 4065,
+      "sha256": "c386dc08a8baf0b482b4691df3648af827625dd0f348df03d2b9abf8a1f47d0f"
+    },
+    {
+      "path": "outputs\\africa_ai_phase6_t1_formation_model_20260715\\results\\t1_analysis_summary.json",
+      "bytes": 4247,
+      "sha256": "deb1522cee57efd1606f6e16716a4d10bf42317b970cfc2adb71cbfee03e33b0"
+    }
+  ],
+  "frozen_t1_reference": {
+    "adjusted_entry_coefficient": 0.025720874299782544,
+    "two_sided_country_label_permutation_p": 0.44725527447255276,
+    "locked_decision": "EXPLORATORY ONLY"
+  },
+  "next_authorized_action": "After this lock, download only the 31 December 2024 CAIDA PeeringDB snapshot and execute the preregistered T1-B validation without modifying this manifest."
+}

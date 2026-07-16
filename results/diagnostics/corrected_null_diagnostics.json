@@ -1,0 +1,79 @@
+{
+  "infrastructure": {
+    "states": 63,
+    "equal_state_weight": 0.015873015873015872,
+    "valid_moves_min": 15,
+    "valid_moves_max": 38,
+    "all_states_preserve_degree_sequence": true,
+    "binary_null": "Exact uniform enumeration over 63 reachable states.",
+    "weighted_null": "10,000 descriptive draws: uniform state plus random reassignment of the global positive-weight multiset; node strengths are not preserved."
+  },
+  "knowledge": {
+    "graph": "knowledge",
+    "target_distribution": "Uniform over reachable undirected simple graphs with the observed degree sequence.",
+    "proposal_mechanism": "Choose two edge indices uniformly with unbiased integer sampling; choose one of the two endpoint pairings with probability 1/2.",
+    "acceptance_rule": "Accept only disjoint-edge proposals that create two absent simple-graph edges.",
+    "invalid_proposals": "Retained as self-loops and counted as proposal steps.",
+    "stationary_distribution_reason": "The proposal kernel is symmetric; retained rejection self-loops make the uniform fixed-degree distribution stationary and ensure aperiodicity.",
+    "nodes": 39,
+    "edges": 222,
+    "chains": 2,
+    "retained_draws_total": 10000,
+    "retained_draws_per_chain": 5000,
+    "burn_in_proposal_steps": 140834,
+    "proposal_steps_between_draws": 28167,
+    "schedule_basis": "Converted the registered 100E/20E accepted-swap schedule to fixed proposal time using the archived acceptance rate 0.15763346444237158.",
+    "rhat_within_end2025": 1.0001502931571677,
+    "chain_diagnostics": [
+      {
+        "chain": 1,
+        "seed": 2172389791,
+        "retained_draws": 5000,
+        "burn_in_proposal_steps": 140834,
+        "proposal_steps_between_draws": 28167,
+        "total_proposals": 140975834,
+        "accepted_swaps": 22235227,
+        "rejected_proposals": 118740607,
+        "rejected_same_edge": 635868,
+        "rejected_shared_endpoint": 19224683,
+        "rejected_duplicate_edge": 98880056,
+        "acceptance_rate": 0.15772367766237155,
+        "unique_retained_adjacencies": 5000,
+        "degree_preserved": true,
+        "autocorrelation_end2025": {
+          "lag_1": -0.003963335090819702,
+          "lag_5": -0.0008162083755261879,
+          "lag_10": 0.014513120718040059,
+          "lag_20": -0.009420939454951387
+        },
+        "effective_sample_size_end2025": 5000,
+        "effective_sample_size_start2021": 5000
+      },
+      {
+        "chain": 2,
+        "seed": 3965153386,
+        "retained_draws": 5000,
+        "burn_in_proposal_steps": 140834,
+        "proposal_steps_between_draws": 28167,
+        "total_proposals": 140975834,
+        "accepted_swaps": 22228223,
+        "rejected_proposals": 118747611,
+        "rejected_same_edge": 634640,
+        "rejected_shared_endpoint": 19218321,
+        "rejected_duplicate_edge": 98894650,
+        "acceptance_rate": 0.15767399538845786,
+        "unique_retained_adjacencies": 5000,
+        "degree_preserved": true,
+        "autocorrelation_end2025": {
+          "lag_1": 0.021023051648288417,
+          "lag_5": 0.007825654561360649,
+          "lag_10": -0.004598581758969248,
+          "lag_20": 0.01940774348036479
+        },
+        "effective_sample_size_end2025": 4870.582122169355,
+        "effective_sample_size_start2021": 4870.582122169355
+      }
+    ]
+  },
+  "historical_outputs_overwritten": false
+}

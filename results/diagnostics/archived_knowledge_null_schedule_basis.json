@@ -1,0 +1,17 @@
+{
+  "graph": "knowledge",
+  "nodes": 39,
+  "edges": 222,
+  "seed": 2172389791,
+  "retained_draws": 10000,
+  "burn_in_accepted_swaps": 22200,
+  "accepted_swaps_between_draws": 4440,
+  "total_accepted_swaps": 44422200,
+  "total_proposals": 281806913,
+  "acceptance_rate": 0.15763346444237158,
+  "unique_retained_adjacencies": 10000,
+  "duplicate_retained_adjacencies": 0,
+  "degree_preserved": true,
+  "degree_sequence_start": [1,13,15,12,15,10,7,13,26,0,1,19,22,6,21,1,2,17,4,19,8,8,4,11,6,15,27,18,9,1,11,4,8,13,11,17,27,11,11],
+  "degree_sequence_end": [1,13,15,12,15,10,7,13,26,0,1,19,22,6,21,1,2,17,4,19,8,8,4,11,6,15,27,18,9,1,11,4,8,13,11,17,27,11,11]
+}

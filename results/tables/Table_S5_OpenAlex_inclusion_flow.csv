@@ -1,0 +1,13 @@
+step,count,status,operational_rule
+Retrieved API filter hits,39189,Raw archive,OpenAlex-reported hits across 196 cursor pages.
+Unique OpenAlex work IDs,39189,Deduplicated by OpenAlex ID,First occurrence retained; zero duplicate IDs were encountered.
+Works with at least one resolved A55 affiliation,39182,Payload-validated,At least one resolved country in the returned authorship payload belongs to A55.
+False filter hits excluded,7,Excluded from aggregates,No resolved A55 country in the returned payload.
+Works in 2015-2019,11651,Retrieved,"11,649 payload-validated works enter the historical analytical period."
+Works in 2020,3266,Audit only,Retained at work level; excluded from the two core-period aggregates.
+Works in 2021-2025,24272,Retrieved,"24,267 payload-validated works enter the principal analytical period."
+Works with unresolved affiliation strings,3202,"Flagged, not automatically excluded",At least one authorship has nonempty raw affiliation text but no resolved country.
+Works used in core country-activity totals,35916,Included,Payload-validated A55 works in 2015-2019 or 2021-2025; 2020 excluded.
+Works used in 2021-2025 country-activity totals,24267,Included,Principal cross-sectional activity period.
+Core works contributing to intra-African dyadic weights,1391,Included,"At least two resolved A55 countries; 256 historical and 1,135 current-period works."
+Dyad-contributing core works also carrying unresolved affiliations,170,Included from resolved affiliations only,Unresolved authorships create no country or edge; resolved affiliations on the same work still contribute.

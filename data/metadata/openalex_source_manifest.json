@@ -1,0 +1,85 @@
+{
+  "phase": "Phase 2-A OpenAlex extraction and knowledge-network construction",
+  "snapshot_date": "2026-07-14",
+  "protocol": "Stage_1_Research_Protocol_v1.1a_Africa_AI_Networked_Capacity.docx",
+  "query_specification": "raw\\query_specification.json",
+  "raw_page_count": 196,
+  "raw_compressed_bytes": 18580317,
+  "files": [
+    {
+      "path": "processed\\openalex_works.csv.gz",
+      "bytes": 3643002,
+      "sha256": "aa379562d5d312c3aa948f0e6814a3e05d4b37bb26f4bcd510d8ededcf3595ad"
+    },
+    {
+      "path": "processed\\work_country_contributions.csv.gz",
+      "bytes": 483287,
+      "sha256": "4170e3ef6dce14f35a0bb0ed955eded0fe231944cebbc19ea91a563a901fefef"
+    },
+    {
+      "path": "processed\\country_period_summary.csv",
+      "bytes": 33822,
+      "sha256": "f21a0b3ef15b3eb34d269316f410243dafe4a58df5fb471e505c07d6c05ce8a7"
+    },
+    {
+      "path": "processed\\africa_positive_pair_edges.csv",
+      "bytes": 38481,
+      "sha256": "01b109d39327c3a5abdf6ff490545e038db39882d5a19096a32c5b3231f0685e"
+    },
+    {
+      "path": "processed\\africa_complete_dyads.csv",
+      "bytes": 281259,
+      "sha256": "363db6b6dc575e327f5622d3536db41763cb875b1a035972b556403dd1a05d4a"
+    },
+    {
+      "path": "processed\\africa_global_partner_edges.csv.gz",
+      "bytes": 27584,
+      "sha256": "678d88ed99294253f6d490f44b258bf6499e091c9dc13409f4f50ab2675951ae"
+    },
+    {
+      "path": "processed\\data_dictionary.json",
+      "bytes": 1183,
+      "sha256": "a212668a9f0b957495ffada34515aff266186f3f4c9a7f08e0bb5df846cf5424"
+    },
+    {
+      "path": "qa\\country_coverage_reconciliation.csv",
+      "bytes": 1769,
+      "sha256": "cd4f324757dbfcfe12b5b8aa4bbb4496d434e338f557a5bd3192d9b6631b9580"
+    },
+    {
+      "path": "qa\\openalex_qa_report.json",
+      "bytes": 1664,
+      "sha256": "ca650089abdf88eec4578ccebc15b286ff6ec168592fdc07915802cd8deb9ff9"
+    },
+    {
+      "path": "qa\\live_count_and_zero_validation.json",
+      "bytes": 17508,
+      "sha256": "19481d3568cc00927c54eca658899f31084e90b553b551842f94e6c7c3b1ab12"
+    },
+    {
+      "path": "qa\\index_payload_country_reconciliation.json",
+      "bytes": 15981,
+      "sha256": "3bd7105a6467649fc5086250e45168dcf81bc203f6294292b4e19c5a3dfd2060"
+    },
+    {
+      "path": "qa\\final_structural_verification.json",
+      "bytes": 1513,
+      "sha256": "d212e2f8a4c8b0d47040900d9df152e9bb68d569f982b43f55c9993b6a4a1158"
+    },
+    {
+      "path": "README.md",
+      "bytes": 734,
+      "sha256": "8d571effb9cebdf03c14be643c32dacfbe23b335b333bf7238e86cc36e2cb1bd"
+    },
+    {
+      "path": "Phase_2A_OpenAlex_Extraction_Report.md",
+      "bytes": 3846,
+      "sha256": "98c462862213661fee6635a12ae56b2309b7c20708a9835a52960f78a37cd4f4"
+    }
+  ],
+  "created_utc": "2026-07-14T17:13:11.624615+00:00",
+  "live_validation_utc": "2026-07-14T17:14:58.612360+00:00",
+  "index_payload_reconciliation_utc": "2026-07-14T17:18:46.627233+00:00",
+  "final_verification_pass": true,
+  "final_verification_utc": "2026-07-14T17:20:43.978221+00:00"
+}

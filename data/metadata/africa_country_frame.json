@@ -1,0 +1,281 @@
+﻿{
+    "openalex":  {
+                     "rows":  [
+                                  {
+                                      "iso2":  "AO",
+                                      "iso3":  "AGO",
+                                      "country":  "Angola"
+                                  },
+                                  {
+                                      "iso2":  "BF",
+                                      "iso3":  "BFA",
+                                      "country":  "Burkina Faso"
+                                  },
+                                  {
+                                      "iso2":  "BI",
+                                      "iso3":  "BDI",
+                                      "country":  "Burundi"
+                                  },
+                                  {
+                                      "iso2":  "BJ",
+                                      "iso3":  "BEN",
+                                      "country":  "Benin"
+                                  },
+                                  {
+                                      "iso2":  "BW",
+                                      "iso3":  "BWA",
+                                      "country":  "Botswana"
+                                  },
+                                  {
+                                      "iso2":  "CD",
+                                      "iso3":  "COD",
+                                      "country":  "Democratic Republic of the Congo"
+                                  },
+                                  {
+                                      "iso2":  "CF",
+                                      "iso3":  "CAF",
+                                      "country":  "Central African Republic"
+                                  },
+                                  {
+                                      "iso2":  "CG",
+                                      "iso3":  "COG",
+                                      "country":  "Republic of the Congo"
+                                  },
+                                  {
+                                      "iso2":  "CI",
+                                      "iso3":  "CIV",
+                                      "country":  "Cote d\u0027Ivoire"
+                                  },
+                                  {
+                                      "iso2":  "CM",
+                                      "iso3":  "CMR",
+                                      "country":  "Cameroon"
+                                  },
+                                  {
+                                      "iso2":  "CV",
+                                      "iso3":  "CPV",
+                                      "country":  "Cabo Verde"
+                                  },
+                                  {
+                                      "iso2":  "DJ",
+                                      "iso3":  "DJI",
+                                      "country":  "Djibouti"
+                                  },
+                                  {
+                                      "iso2":  "DZ",
+                                      "iso3":  "DZA",
+                                      "country":  "Algeria"
+                                  },
+                                  {
+                                      "iso2":  "EG",
+                                      "iso3":  "EGY",
+                                      "country":  "Egypt"
+                                  },
+                                  {
+                                      "iso2":  "EH",
+                                      "iso3":  "ESH",
+                                      "country":  "Sahrawi Arab Democratic Republic / Western Sahara"
+                                  },
+                                  {
+                                      "iso2":  "ER",
+                                      "iso3":  "ERI",
+                                      "country":  "Eritrea"
+                                  },
+                                  {
+                                      "iso2":  "ET",
+                                      "iso3":  "ETH",
+                                      "country":  "Ethiopia"
+                                  },
+                                  {
+                                      "iso2":  "GA",
+                                      "iso3":  "GAB",
+                                      "country":  "Gabon"
+                                  },
+                                  {
+                                      "iso2":  "GH",
+                                      "iso3":  "GHA",
+                                      "country":  "Ghana"
+                                  },
+                                  {
+                                      "iso2":  "GM",
+                                      "iso3":  "GMB",
+                                      "country":  "Gambia"
+                                  },
+                                  {
+                                      "iso2":  "GN",
+                                      "iso3":  "GIN",
+                                      "country":  "Guinea"
+                                  },
+                                  {
+                                      "iso2":  "GQ",
+                                      "iso3":  "GNQ",
+                                      "country":  "Equatorial Guinea"
+                                  },
+                                  {
+                                      "iso2":  "GW",
+                                      "iso3":  "GNB",
+                                      "country":  "Guinea-Bissau"
+                                  },
+                                  {
+                                      "iso2":  "KE",
+                                      "iso3":  "KEN",
+                                      "country":  "Kenya"
+                                  },
+                                  {
+                                      "iso2":  "KM",
+                                      "iso3":  "COM",
+                                      "country":  "Comoros"
+                                  },
+                                  {
+                                      "iso2":  "LR",
+                                      "iso3":  "LBR",
+                                      "country":  "Liberia"
+                                  },
+                                  {
+                                      "iso2":  "LS",
+                                      "iso3":  "LSO",
+                                      "country":  "Lesotho"
+                                  },
+                                  {
+                                      "iso2":  "LY",
+                                      "iso3":  "LBY",
+                                      "country":  "Libya"
+                                  },
+                                  {
+                                      "iso2":  "MA",
+                                      "iso3":  "MAR",
+                                      "country":  "Morocco"
+                                  },
+                                  {
+                                      "iso2":  "MG",
+                                      "iso3":  "MDG",
+                                      "country":  "Madagascar"
+                                  },
+                                  {
+                                      "iso2":  "ML",
+                                      "iso3":  "MLI",
+                                      "country":  "Mali"
+                                  },
+                                  {
+                                      "iso2":  "MR",
+                                      "iso3":  "MRT",
+                                      "country":  "Mauritania"
+                                  },
+                                  {
+                                      "iso2":  "MU",
+                                      "iso3":  "MUS",
+                                      "country":  "Mauritius"
+                                  },
+                                  {
+                                      "iso2":  "MW",
+                                      "iso3":  "MWI",
+                                      "country":  "Malawi"
+                                  },
+                                  {
+                                      "iso2":  "MZ",
+                                      "iso3":  "MOZ",
+                                      "country":  "Mozambique"
+                                  },
+                                  {
+                                      "iso2":  "NA",
+                                      "iso3":  "NAM",
+                                      "country":  "Namibia"
+                                  },
+                                  {
+                                      "iso2":  "NE",
+                                      "iso3":  "NER",
+                                      "country":  "Niger"
+                                  },
+                                  {
+                                      "iso2":  "NG",
+                                      "iso3":  "NGA",
+                                      "country":  "Nigeria"
+                                  },
+                                  {
+                                      "iso2":  "RW",
+                                      "iso3":  "RWA",
+                                      "country":  "Rwanda"
+                                  },
+                                  {
+                                      "iso2":  "SC",
+                                      "iso3":  "SYC",
+                                      "country":  "Seychelles"
+                                  },
+                                  {
+                                      "iso2":  "SD",
+                                      "iso3":  "SDN",
+                                      "country":  "Sudan"
+                                  },
+                                  {
+                                      "iso2":  "SL",
+                                      "iso3":  "SLE",
+                                      "country":  "Sierra Leone"
+                                  },
+                                  {
+                                      "iso2":  "SN",
+                                      "iso3":  "SEN",
+                                      "country":  "Senegal"
+                                  },
+                                  {
+                                      "iso2":  "SO",
+                                      "iso3":  "SOM",
+                                      "country":  "Somalia"
+                                  },
+                                  {
+                                      "iso2":  "SS",
+                                      "iso3":  "SSD",
+                                      "country":  "South Sudan"
+                                  },
+                                  {
+                                      "iso2":  "ST",
+                                      "iso3":  "STP",
+                                      "country":  "Sao Tome and Principe"
+                                  },
+                                  {
+                                      "iso2":  "SZ",
+                                      "iso3":  "SWZ",
+                                      "country":  "Eswatini"
+                                  },
+                                  {
+                                      "iso2":  "TD",
+                                      "iso3":  "TCD",
+                                      "country":  "Chad"
+                                  },
+                                  {
+                                      "iso2":  "TG",
+                                      "iso3":  "TGO",
+                                      "country":  "Togo"
+                                  },
+                                  {
+                                      "iso2":  "TN",
+                                      "iso3":  "TUN",
+                                      "country":  "Tunisia"
+                                  },
+                                  {
+                                      "iso2":  "TZ",
+                                      "iso3":  "TZA",
+                                      "country":  "Tanzania"
+                                  },
+                                  {
+                                      "iso2":  "UG",
+                                      "iso3":  "UGA",
+                                      "country":  "Uganda"
+                                  },
+                                  {
+                                      "iso2":  "ZA",
+                                      "iso3":  "ZAF",
+                                      "country":  "South Africa"
+                                  },
+                                  {
+                                      "iso2":  "ZM",
+                                      "iso3":  "ZMB",
+                                      "country":  "Zambia"
+                                  },
+                                  {
+                                      "iso2":  "ZW",
+                                      "iso3":  "ZWE",
+                                      "country":  "Zimbabwe"
+                                  }
+                              ]
+                 }
+}

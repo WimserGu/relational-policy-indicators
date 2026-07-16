@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "relational-policy-indicators"
+version = "0.0.0"
+description = "Replication workflows for cross-layer relational policy indicators"
+readme = "README.md"
+requires-python = ">=3.12"
+license = {text = "MIT"}
+dependencies = [
+  "numpy==2.3.5",
+  "pandas==3.0.1",
+  "matplotlib==3.10.3",
+]
+
+[tool.setuptools]
+py-modules = []

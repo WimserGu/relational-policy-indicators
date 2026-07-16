@@ -1,0 +1,161 @@
+{
+  "created": "2026-07-15",
+  "phase": "2-B network, REC and dyadic controls",
+  "files": [
+    {
+      "path": "manifest_peeringdb.json",
+      "bytes": 4822,
+      "sha256": "adff594bec3caef31bf2d4754dcd0769275190a6f5f68dc7ede6354f03f74f45"
+    },
+    {
+      "path": "Phase_2B_Network_REC_Controls_Report.md",
+      "bytes": 8967,
+      "sha256": "93c4d13d4ca55507b0b9936798fb856d43931ec683de1e3a4fc6ebd77a7ac590"
+    },
+    {
+      "path": "processed/asn_ubiquity.csv",
+      "bytes": 73429,
+      "sha256": "d670a11bb373a1f6086de358d6e7836c2969267a1cef6fc79b41d417085b374e"
+    },
+    {
+      "path": "processed/cepii_africa_dyadic_controls.csv",
+      "bytes": 127683,
+      "sha256": "3cda2d8b104d37d978ea2e9d0766e8e5e56ca78925b1463da36c1c162343c5d4"
+    },
+    {
+      "path": "processed/country_asn_incidence.csv",
+      "bytes": 98516,
+      "sha256": "5e9224da30e0064c99d9368645f69c83bde17067350d29d2c5ad24ad13d5dd21"
+    },
+    {
+      "path": "processed/coverage_selection_country_diagnostics.csv",
+      "bytes": 4091,
+      "sha256": "6021d0b1af0a0558a3a04ee228d4a1f4d51cff44d38396d7d72546d5137efb48"
+    },
+    {
+      "path": "processed/e3_multiplex_covered_dyads.csv",
+      "bytes": 130211,
+      "sha256": "3db55438121829418c32aa30c78a623dc03d5a59959ad485a5d1629e6a2bd420"
+    },
+    {
+      "path": "processed/h2_continuous_estimation_dyads.csv",
+      "bytes": 314873,
+      "sha256": "3ea731e8d34bcf5fe80668bf6fc6678982b5316e25ce84051164059b7825020e"
+    },
+    {
+      "path": "processed/h2_primary_model_dyads.csv",
+      "bytes": 328373,
+      "sha256": "094256cabe48beb893e73eb200698d55a08a84ab201d138fd504a639110fea11"
+    },
+    {
+      "path": "processed/peeringdb_complete_55_dyads.csv",
+      "bytes": 154915,
+      "sha256": "9de6df0d09bb4125cb55f6b8023dc5997d1e2070929bee9ff2caeb0bdf58577c"
+    },
+    {
+      "path": "processed/peeringdb_country_summary.csv",
+      "bytes": 4574,
+      "sha256": "2f1132b3d817300ca179d7c9c4ac2f894ad830152c7276e741bd8034c0b6b645"
+    },
+    {
+      "path": "processed/peeringdb_ixps.csv",
+      "bytes": 6885,
+      "sha256": "5465b37933422d50a2201eda8631a70081786b7601485825436a3f678e8b6c24"
+    },
+    {
+      "path": "processed/peeringdb_memberships.csv.gz",
+      "bytes": 53070,
+      "sha256": "d5369172cbd239600346a752b800f8f36408d6a96640dfc63f34cbdcef9cbf2a"
+    },
+    {
+      "path": "processed/peeringdb_primary_covered_dyads.csv",
+      "bytes": 119611,
+      "sha256": "aba5f967e3f0cbddca76caaa7308bfa58e5741847098dab34ed697a23e4d902f"
+    },
+    {
+      "path": "processed/phase2b_complete_55_dyads.csv",
+      "bytes": 546518,
+      "sha256": "84ffc8aea877594f7c9399d0ca6235a9db0e1da1b2df6ed74ab6dd8a7257eba6"
+    },
+    {
+      "path": "processed/phase2b_data_dictionary.json",
+      "bytes": 2390,
+      "sha256": "523f38dbf2448ada2e015bbce330b0dfcecc69e8538253b4fdccc4a6fa55bd8c"
+    },
+    {
+      "path": "processed/rec_complete_55_dyads.csv",
+      "bytes": 91708,
+      "sha256": "c38e1968728573db859743262249b8cbd1a3fa5d8dc68d4351f948774da4c652"
+    },
+    {
+      "path": "processed/rec_complete_55_dyads_2021_sensitivity.csv",
+      "bytes": 92627,
+      "sha256": "cbf41572a9d8ad933bce4b19c5c7f756b1586a0eac5ef65c6efc79c7b9eace5f"
+    },
+    {
+      "path": "processed/rec_membership_2021_sensitivity.csv",
+      "bytes": 9171,
+      "sha256": "ab1bda9f37e08ebb0e5a999d97088d4a3e57f5c3e4a3208baa6f403e9364a25b"
+    },
+    {
+      "path": "processed/rec_membership_snapshot.csv",
+      "bytes": 9082,
+      "sha256": "d6cebd50bb32437ab463f649ec0afa6838258d79ab7f0cb6f58fa85e1fff2b0f"
+    },
+    {
+      "path": "processed/world_bank_country_year_values.csv",
+      "bytes": 21286,
+      "sha256": "34a92e774618d8ced500255c38fedb740562285877f9f48ec9a208d92b9ec4f9"
+    },
+    {
+      "path": "qa/independent_verification.json",
+      "bytes": 972,
+      "sha256": "b7ef01bc0b38724e06a1973d359dc099ab82dd7c1c3c3e9f6fdbaf74f5f17462"
+    },
+    {
+      "path": "qa/peeringdb_qa_report.json",
+      "bytes": 1736,
+      "sha256": "09c2a48f3836d7c9168310d4263211fbb715e76989775c128f0564f91238b678"
+    },
+    {
+      "path": "qa/phase2b_controls_merge_qa.json",
+      "bytes": 2122,
+      "sha256": "62a7f81d052d786260d67f7eca487543652ff665c899bdef8907e0f73e27536a"
+    },
+    {
+      "path": "qa/world_bank_year_selection.json",
+      "bytes": 621,
+      "sha256": "2ecf340d35d621f6bf569c633325f217ec87e23ae52063ec5d5b5c0bc0f051af"
+    },
+    {
+      "path": "raw/dist_cepii.dta",
+      "bytes": 1909446,
+      "sha256": "a6695221f1dc9e60df0bc5b3a6d72605efdc7d0def1d145391e096c1eb3b737a"
+    },
+    {
+      "path": "raw/dist_cepii.zip",
+      "bytes": 2102114,
+      "sha256": "1854825bab1abe7197f6e47295a7ced5f72c83bc95076768f733c4969ed86780"
+    },
+    {
+      "path": "raw/peeringdb_api_responses.json.gz",
+      "bytes": 578115,
+      "sha256": "a55eccd008182256219da0c8d4c8958bd188563e79538c660585e29459756efa"
+    },
+    {
+      "path": "raw/rec_source_register.json",
+      "bytes": 1188,
+      "sha256": "f9e8d8c0ad83477975e2e142fb76dbceee6e14ab460e86bb4b05ebc0efeb8326"
+    },
+    {
+      "path": "raw/world_bank_wdi_2021_2025.json",
+      "bytes": 1183224,
+      "sha256": "70d20217616f80ef2915246e86ab766c73bebd20e7c1d944f3fbbf98622bbe1b"
+    },
+    {
+      "path": "README.md",
+      "bytes": 1058,
+      "sha256": "c2e5fccfd445a6e0b569dcf5f0bfb746fe3ce7158746ca57ee204b8a9ba78d23"
+    }
+  ]
+}

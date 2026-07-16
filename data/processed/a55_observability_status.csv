@@ -1,0 +1,56 @@
+﻿iso2,iso3,country,au_region,mother_frame_55,network_primary_covered,technical_state,technical_metric_if_observed,ixp_count_if_observed,member_asns_if_observed,fractional_ai_output_2021_2025,population_reference,gdp_current_usd_reference,coverage_note
+DZ,DZA,Algeria,North,1,0,Not observed,,,,1768.5877705627672,47435312,287031225987.736,No PeeringDB IXP record (not proof of real-world absence)
+EG,EGY,Egypt,North,1,1,Observed positive,12,3,38,3723.556252877528,118365995,365254630179.737,IXP and ASN records present
+LY,LBY,Libya,North,1,0,Not observed,,,,196.41666666666669,7458555,48098909613.6316,IXP record present; no status-ok membership
+MR,MRT,Mauritania,North,1,0,Not observed,,,,20.15,5315065,11679910946.4371,No PeeringDB IXP record (not proof of real-world absence)
+MA,MAR,Morocco,North,1,1,Observed positive,1.9999999999999987,2,6,2902.01599520753,38430770,182374250612.28,IXP and ASN records present
+EH,ESH,Sahrawi Arab Democratic Republic / Western Sahara,North,1,0,Not observed,,,,0,,,No PeeringDB IXP record (not proof of real-world absence)
+TN,TUN,Tunisia,North,1,1,Observed positive,3.9999999999999982,1,4,1242.1093362193385,12348573,57502836548.0878,IXP and ASN records present
+BJ,BEN,Benin,West,1,1,Observed positive,1.9999999999999987,1,5,52.65238095238095,14814460,24566420903.5337,IXP and ASN records present
+BF,BFA,Burkina Faso,West,1,1,Observed positive,9.999999999999998,2,16,59.53333333333333,24074580,27627297461.3181,IXP and ASN records present
+CV,CPV,Cabo Verde,West,1,1,Observed zero,0,1,5,4.166666666666666,527326,3056630435.32463,IXP and ASN records present
+CI,CIV,Cote d'Ivoire,West,1,1,Observed positive,9,1,14,45.99285714285714,32711547,99773555666.1988,IXP and ASN records present
+GM,GMB,Gambia,West,1,1,Observed zero,0,1,2,10,2822093,2593673987.53306,IXP and ASN records present
+GH,GHA,Ghana,West,1,1,Observed positive,26.000000000000007,3,39,479.2877747252742,35064272,114209905278.717,IXP and ASN records present
+GN,GIN,Guinea,West,1,1,Observed positive,1.9999999999999987,1,4,5,15099727,28346024753.2924,IXP and ASN records present
+GW,GNB,Guinea-Bissau,West,1,0,Not observed,,,,0.8333333333333333,2249515,2527930272.92988,No PeeringDB IXP record (not proof of real-world absence)
+LR,LBR,Liberia,West,1,0,Not observed,,,,8.916666666666668,5731206,5245938900,No PeeringDB IXP record (not proof of real-world absence)
+ML,MLI,Mali,West,1,1,Observed positive,2.9999999999999987,1,5,15.360256410256412,25198821,30069148580.7688,IXP and ASN records present
+NE,NER,Niger,West,1,0,Not observed,,,,19.1047619047619,27917831,21646191388.2507,No PeeringDB IXP record (not proof of real-world absence)
+NG,NGA,Nigeria,West,1,1,Observed positive,64.99999999999999,6,153,2666.793105727726,237527782,290794361542.112,IXP and ASN records present
+SN,SEN,Senegal,West,1,1,Observed positive,1.9999999999999987,1,5,103.99444444444444,18931966,37006536238.3731,IXP and ASN records present
+SL,SLE,Sierra Leone,West,1,1,Observed positive,1,1,5,9.7,8819794,7464157904.43509,IXP and ASN records present
+TG,TGO,Togo,West,1,1,Observed positive,3.999999999999999,1,9,9.666666666666666,8591626,11889949067.4697,IXP and ASN records present
+BI,BDI,Burundi,Central,1,1,Observed positive,3.999999999999999,1,9,115.86834733893552,14390003,3364713864.08488,IXP and ASN records present
+CM,CMR,Cameroon,Central,1,1,Observed positive,7.000000000000001,3,17,309.6651727357609,29879337,58933453923.761,IXP and ASN records present
+CF,CAF,Central African Republic,Central,1,0,Not observed,,,,4.916666666666666,5513282,3066109226.40165,No PeeringDB IXP record (not proof of real-world absence)
+TD,TCD,Chad,Central,1,1,Observed positive,2.9999999999999987,1,9,9.833333333333334,21003705,21472835225.4338,IXP and ASN records present
+CD,COD,Democratic Republic of the Congo,Central,1,1,Observed positive,11,4,30,59.775,112832473,91030531316.9936,IXP and ASN records present
+GQ,GNQ,Equatorial Guinea,Central,1,0,Not observed,,,,0,1938431,12823210425.9217,No PeeringDB IXP record (not proof of real-world absence)
+GA,GAB,Gabon,Central,1,1,Observed positive,3.9999999999999987,1,8,5.471428571428572,2593130,21427119323.2764,IXP and ASN records present
+CG,COG,Republic of the Congo,Central,1,1,Observed positive,3.999999999999999,2,9,13.566666666666668,6484437,16306633778.765,IXP and ASN records present
+ST,STP,Sao Tome and Principe,Central,1,0,Not observed,,,,1.3333333333333333,240254,981293586.906408,No PeeringDB IXP record (not proof of real-world absence)
+KM,COM,Comoros,East,1,0,Not observed,,,,0,882847,1814920856.27026,No PeeringDB IXP record (not proof of real-world absence)
+DJ,DJI,Djibouti,East,1,1,Observed positive,14.999999999999996,1,20,1.4999999999999998,1184076,4624533092.31886,IXP and ASN records present
+ER,ERI,Eritrea,East,1,0,Not observed,,,,4.833333333333333,3607003,,No PeeringDB IXP record (not proof of real-world absence)
+ET,ETH,Ethiopia,East,1,1,Observed zero,0,1,3,615.503603749192,135472051,126358758448.356,IXP and ASN records present
+KE,KEN,Kenya,East,1,1,Observed positive,62.99999999999999,8,171,455.7142607392605,57532493,135941278878.815,IXP and ASN records present
+MG,MDG,Madagascar,East,1,1,Observed positive,5.000000000000001,1,5,43.535964912280704,32740678,19620352035.7899,IXP and ASN records present
+MU,MUS,Mauritius,East,1,1,Observed positive,15.999999999999996,1,21,88.13571428571426,1243741,16157804491.7614,IXP and ASN records present
+RW,RWA,Rwanda,East,1,1,Observed positive,10,1,15,111.44507956805911,14569341,16372132990.2271,IXP and ASN records present
+SC,SYC,Seychelles,East,1,0,Not observed,,,,1.7,122730,2387022853.48583,No PeeringDB IXP record (not proof of real-world absence)
+SO,SOM,Somalia,East,1,0,Not observed,,,,27.66715686274509,19654739,12995200000.2658,IXP record present; no status-ok membership
+SS,SSD,South Sudan,East,1,0,Not observed,,,,158.4651515151515,12188788,,No PeeringDB IXP record (not proof of real-world absence)
+SD,SDN,Sudan,East,1,1,Observed positive,2.9999999999999987,1,4,147.75043290043294,51662147,60162634574.4689,IXP and ASN records present
+TZ,TZA,Tanzania,East,1,1,Observed positive,14,7,43,172.69329004329006,70545865,90143496090.4411,IXP and ASN records present
+UG,UGA,Uganda,East,1,1,Observed positive,13.999999999999998,1,25,155.00997295469912,51384894,61985829288.1496,IXP and ASN records present
+AO,AGO,Angola,South,1,1,Observed positive,13.999999999999998,2,29,11.166666666666666,39040039,122174889423.635,IXP and ASN records present
+BW,BWA,Botswana,South,1,1,Observed positive,1,2,1,88.80657993966818,2562122,19928479839.4476,IXP and ASN records present
+SZ,SWZ,Eswatini,South,1,0,Not observed,,,,6.15,1256174,5160679612.81734,IXP record present; no status-ok membership
+LS,LSO,Lesotho,South,1,1,Observed positive,2,1,3,5.033333333333333,2363325,2573572920.05159,IXP and ASN records present
+MW,MWI,Malawi,South,1,1,Observed positive,3.9999999999999987,2,12,55.70000000000001,22216120,14918276698.303,IXP and ASN records present
+MZ,MOZ,Mozambique,South,1,1,Observed positive,10.999999999999998,1,18,42.07619047619048,35631653,22337997046.1913,IXP and ASN records present
+NA,NAM,Namibia,South,1,1,Observed positive,4.999999999999999,1,6,54.555952380952384,3092816,15080340653.5276,IXP and ASN records present
+ZA,ZAF,South Africa,South,1,1,Observed positive,100,12,635,1902.538283882895,64747319,427184325997.307,IXP and ASN records present
+ZM,ZMB,Zambia,South,1,1,Observed positive,6.999999999999999,1,12,89.39253663003663,21913874,28879806220.1264,IXP and ASN records present
+ZW,ZWE,Zimbabwe,South,1,1,Observed positive,1.9999999999999996,1,2,102.97619047619044,16950795,51215643905.5886,IXP and ASN records present

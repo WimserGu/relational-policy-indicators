@@ -1,0 +1,11 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Relational indicator observation-state contract",
+  "type": "string",
+  "enum": [
+    "recorded_positive",
+    "recorded_zero_frozen_construction",
+    "not_observed_source_or_eligibility_rule"
+  ],
+  "description": "Not-observed states are outside the observed estimand and must not be silently encoded as numerical zero."
+}

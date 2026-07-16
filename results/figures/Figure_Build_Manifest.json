@@ -1,0 +1,17 @@
+{
+  "inputs": {
+    "outputs\\africa_ai_phase9_manuscript_plan_20260715\\manuscript\\02_three_layer_dataset\\country_three_layer_positions.csv": "FC0B58B95DAB05A3717C3E3DE06C64805BC60B832E29C0F8A9FCFFDA80778773",
+    "outputs\\africa_ai_phase9_manuscript_plan_20260715\\manuscript\\06_observability\\Country_Coverage_Status_55.csv": "7D77F558AA28FDB7F5D1D27CF84A2E4D6B5DC7BD4CC051DF9083074371C44F8F",
+    "outputs\\africa_ai_phase3_analysis_20260715\\results\\coverage_selection_standardized_differences.csv": "E41622CC3CB7C3AA2B36D5BA5D90DE7942ACD36F8B9CC2E8E76A2ACA18CAECCE",
+    "outputs\\africa_ai_phase9_manuscript_plan_20260715\\manuscript\\15_abstract_title\\assets_v1.3\\Table_3_regional_structure_v1.2.csv": "4A6A065C9AF3DB816A8393FEF2F8A6B53BD45E8E60784389EFBF3605108EF733"
+  },
+  "outputs": {
+    "Figure_1_three_layer_positions_v1.3.1.pdf": "5B845E691747A0163707262375D68519A78C1983B754D331BFFB7A447DAD14F9",
+    "Figure_1_three_layer_positions_v1.3.1.png": "FF33FF9090EC917BB805355BCAB7CD15E77C65CBED91381BA43EFE85D10BBB44",
+    "Figure_2_observed_null_ratio_v1.3.1.pdf": "F201FB6CAF82F18D90292E81D310058F7BB790773DD4E85D67B97ED96F877381",
+    "Figure_2_observed_null_ratio_v1.3.1.png": "B3D25E0A9E87DA84CEAD2590B1B976C10D939F7C2CFD3AC9D0BA12F57B1CDC5A",
+    "Figure_3_observability_v1.3.1.pdf": "5D6C6E63CE746B3987857C49720B93333A96267F1D01FB7403F0F158527C911B",
+    "Figure_3_observability_v1.3.1.png": "ED4F32621CC017D885D31B1131A54DFD511E97C6A792C1E663FA15BC01CB77F3",
+    "Main_Figure_Alt_Text_v1.3.1.md": "A446332DC21409FA19DB1052EF7B423F72368BEB65572991FDDD0D793BF60BA5"
+  }
+}

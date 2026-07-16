@@ -1,0 +1,13 @@
+event_year,risk_definition,outcome_construct,risk_set_n,one_year_outcome_n,one_year_outcome_rate,two_year_available,two_year_cumulative_outcome_n,two_year_cumulative_outcome_rate,interpretive_status
+2019,T1-B-compatible: no AI tie in t-2 and t-1,next-year tie presence after two tie-free pre-event years,81,1,0.012345679012345678,1,2,0.024691358024691357,mature historical cohort
+2019,Strict formation: also no AI tie in event year t,strict new formation; also requires no tie in event year t,81,1,0.012345679012345678,1,2,0.024691358024691357,mature historical cohort
+2020,T1-B-compatible: no AI tie in t-2 and t-1,next-year tie presence after two tie-free pre-event years,202,8,0.039603960396039604,1,15,0.07425742574257425,mature historical cohort
+2020,Strict formation: also no AI tie in event year t,strict new formation; also requires no tie in event year t,192,5,0.026041666666666668,1,11,0.057291666666666664,mature historical cohort
+2021,T1-B-compatible: no AI tie in t-2 and t-1,next-year tie presence after two tie-free pre-event years,178,6,0.033707865168539325,1,13,0.07303370786516854,mature historical cohort
+2021,Strict formation: also no AI tie in event year t,strict new formation; also requires no tie in event year t,173,6,0.03468208092485549,1,11,0.06358381502890173,mature historical cohort
+2022,T1-B-compatible: no AI tie in t-2 and t-1,next-year tie presence after two tie-free pre-event years,170,9,0.052941176470588235,1,17,0.1,mature historical cohort
+2022,Strict formation: also no AI tie in event year t,strict new formation; also requires no tie in event year t,164,7,0.042682926829268296,1,13,0.07926829268292683,mature historical cohort
+2023,T1-B-compatible: no AI tie in t-2 and t-1,next-year tie presence after two tie-free pre-event years,109,5,0.045871559633027525,1,11,0.10091743119266056,mature historical cohort
+2023,Strict formation: also no AI tie in event year t,strict new formation; also requires no tie in event year t,106,4,0.03773584905660377,1,9,0.08490566037735849,mature historical cohort
+2024,T1-B-compatible: no AI tie in t-2 and t-1,next-year tie presence after two tie-free pre-event years,55,1,0.01818181818181818,0,,,2024 holdout; compatible presence outcome
+2024,Strict formation: also no AI tie in event year t,strict new formation; also requires no tie in event year t,53,0,0,0,,,2024 holdout; first-formation diagnostic

@@ -1,0 +1,21 @@
+requirement_id,requirement,official_rule,status,evidence_or_location,required_action,priority
+DP-01,Research Article type,"Approximately 8000 words excluding references; guideline rather than strict limit",ADVISORY,"Main narrative remains approximately 9000 words",Reduce 700-1000 duplicated or supplementary operational words,Moderate
+DP-02,Title,"Concise informative and grammatically correct",PASS,"Full_Manuscript_v1.3.1.md title",None,Cleared
+DP-03,Abstract,"No more than 250 words",PASS,"225 words",None,Cleared
+DP-04,Policy significance statement,"Required; no more than 120 words; broad policy audience",PASS,"116 words",None,Cleared
+DP-05,Keywords,"Up to five; separated by semicolons",PASS,"Five keywords",None,Cleared
+DP-06,Data Availability Statement,Required,BLOCKED,"Not present in manuscript",Approve repository wording and insert persistent identifier,Critical
+DP-07,Funding statement,Required,BLOCKED,"Not present in manuscript",Author confirms funding and funder role,Critical
+DP-08,Competing Interests statement,"Required; omission prevents peer review",BLOCKED,"Not present in manuscript",Author confirms declaration,Critical
+DP-09,Replication materials,"Repository with persistent identifier expected where possible",BLOCKED,"Local hashes exist; no public DOI",Create Zenodo/OSF release and cite it,Critical
+DP-10,CRediT roles,Collected at submission,BLOCKED,"Author identities and roles not finalized",Confirm authors affiliations and roles,Critical
+DP-11,AI assistance disclosure,"Writing/AI assistance disclosed in cover letter and Acknowledgments",BLOCKED,"Template prepared; author approval absent",Approve factual disclosure,Critical
+DP-12,Cambridge A in-text citations,"Author date; no punctuation between author and year",PASS,"v1.3.1 controlled conversion",Verify in final typeset file,Moderate
+DP-13,Cambridge A reference list,Cambridge A format,PROVISIONAL,"v1.3.1 mechanically reformatted",Verify metadata against DOI/publisher records,Moderate
+DP-14,Main figures,"Electronic figure files and source-quality output",PASS,"Three PDF and PNG figure pairs in assets_v1.3.1",Use PDFs for production,Cleared
+DP-15,Accessibility descriptions,"Alt text required for figures/tables/multimedia",PASS,"Main_Figure_Alt_Text_v1.3.1.md",Transfer descriptions into submission form,Cleared
+DP-16,Supplementary materials,"Supply exactly as they should appear; not typeset/copyedited",INCOMPLETE,"Tables S1-S7 exist as separate CSV files",Assemble and visually verify one supplement,Moderate
+DP-17,Publication-facing tables,"Readable tables with titles notes and abbreviations",INCOMPLETE,"CSV content exists",Create formatted main and supplementary tables,Moderate
+DP-18,Cover letter,Short letter entered in ScholarOne,INCOMPLETE,"Not drafted in this pass",Draft after author declarations and DOI are fixed,Moderate
+DP-19,Editable submission file,"Word or LaTeX source required for production",INCOMPLETE,"Current authoritative version is Markdown",Convert through journal template and verify rendering,Moderate
+

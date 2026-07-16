@@ -1,0 +1,9 @@
+name: relational-policy-indicators
+channels:
+  - conda-forge
+dependencies:
+  - python=3.12
+  - numpy=2.3.5
+  - pandas=3.0.1
+  - matplotlib=3.10.3
+  - pip
